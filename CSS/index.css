@@ -16,7 +16,7 @@ p{
 }
 .header{
     /* The image used */
-    background-image: url('../images/hero2.png');
+    background-image: url('https://github.com/boshengbu/PETESSURFSHOP/blob/master/images/hero2.png?raw=true');
     background-size: 100% auto;
     background-repeat: no-repeat;
     padding:8%;
