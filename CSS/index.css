@@ -1,27 +1,26 @@
 .h1{
-    font-family: "OpenSans",sans-serif;
-    font-style: oblique;
-    font-size:83.62px
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size:83.62px;
     color: #0B4451;
 }
 
 .h2{
-    font-family: "OpenSans",sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size:69px;
 }
 
 p{
-    font-family: "OpenSans",sans-serif;
-    font-size:29px;
+    font-family: 'Open Sans', sans-serif;
+    font-size:18px;
 }
 .header{
     /* The image used */
     background-image: url('../images/hero2.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
-    text-align: center; 
-    padding:100px;
-    margin: 60px;
+    padding:8%;
+    margin: 6%;
   }
 
   .center {
