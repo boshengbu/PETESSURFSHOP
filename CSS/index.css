@@ -1,8 +1,38 @@
+.h1{
+    font-family: "OpenSans",sans-serif;
+    font-style: oblique;
+    font-size:83.62px
+    color: #0B4451;
+}
+
+.h2{
+    font-family: "OpenSans",sans-serif;
+    font-size:69px;
+}
+
+p{
+    font-family: "OpenSans",sans-serif;
+    font-size:29px;
+}
 .header{
     /* The image used */
     background-image: url('../images/hero2.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     text-align: center; 
-    height: 800px;
+    padding:100px;
+    margin: 60px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:0;
+  }
+  .navbar ul {
+    margin-left: auto; margin-right: auto !important; 
+  }
+  .btn{
+    background-color: #0B4451;
   }
